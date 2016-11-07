@@ -1,0 +1,30 @@
+.chat-room-container {
+    position: relative;
+    width: 25%;
+    float: left;
+    background-color: #DCDCDC;
+    font-family: Calibri;
+    height: 100vh;
+}
+
+.chat-room-container h1 {
+    padding-left: 5%;
+    font-size: 35px;
+}
+
+.room-list {
+    list-style-type: none;
+    font-size: 25px;
+    padding: 0;
+    width: 100%;
+    color: #404040;
+}
+
+.room-list-item {
+    margin-top: 10px;
+}
+
+.room-list li {
+    padding-left: 5%;
+}
+
